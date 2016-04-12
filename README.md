@@ -1,5 +1,5 @@
 <img src="icon.png" align="right" />
-# awesome-ios [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# awesome-ios
 > A curated list of awesome iOS plugins, services and SDKs
 
 
@@ -15,3 +15,4 @@
 - https://github.com/adad184/MMParallaxCell : create parallax UITableCell images
 - https://github.com/KrauseFx/TSMessages : little notifications such as "No network connexion detected"
 - https://github.com/dzenbot/DZNEmptyDataSet : custom view when you UITableView or UICollectionView doesn't display any item
+- https://github.com/tdginternet/TGCameraViewController : A customisable camera library with camera roll and filters
