@@ -9,6 +9,7 @@
 ## A/B Testing
 - https://github.com/mattt/SkyLab : add conditions to code snippets directely in code. Add more code to plug it with your custom API
 - http://apptimize.com/ : Paid service to manage and view your A/B results
+- https://mixpanel.com/ : A nice paid service with it's SDK to analyser an performs A/B testings.
 
 ## UI
 - https://github.com/adad184/MMParallaxCell : create parallax UITableCell images
