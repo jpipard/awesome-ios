@@ -18,3 +18,4 @@
 - :small_blue_diamond: https://github.com/tdginternet/TGCameraViewController : A customisable camera library with camera roll and filters
 - :large_orange_diamond: https://github.com/Yalantis/DisplaySwitcher : A nice CollectionView display to TableView display switcher
 - :small_blue_diamond: https://github.com/liufengting/FTPopOverMenu : Cool popover menu
+- :small_blue_diamond: https://github.com/hackiftekhar/IQKeyboardManager : The SOLUTION for autoscrolling your view when your keyboard hides your textfields in ONE line!
